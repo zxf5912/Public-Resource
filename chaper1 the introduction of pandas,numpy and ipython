@@ -1,0 +1,14 @@
+命令行模式下：蓝色边框
+单元格上方插入：A
+单元格下方插入：B
+删除：两次D
+撤销：Z
+多选：shift+向上箭头或者向下箭头
+合并：shift+M
+替换：F
+编辑模式下：绿色边框
+开头：ctrl+home
+保存：ctrl+s
+运行：ctrl+enter
+运行并添加：alt+enter
+打开命令选项板：ctrl+shift+F

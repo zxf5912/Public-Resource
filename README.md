@@ -1,6 +1,6 @@
 # data-mining-with-python
-> Open source data mining project written by python.
+> Open source data.
 
-> I will establish some projects and keep maintaining them.
+> some data and documents which used in my projects.
 
 > I holp these projects can help you.
